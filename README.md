@@ -46,7 +46,7 @@ if (handle.Status == AsyncOperationStatus.Succeeded)
 
 ---
 
-## 성공적인 구현 결과
+## 구현 결과
 
 ### 해결된 기술적 과제
 
